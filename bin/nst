@@ -1,0 +1,8 @@
+#! /usr/bin/env node
+
+/*
+ * Copyright (c) 2015 Pixel Flavor LLC. All Rights Reserved.
+ * Please see the LICENSE file included with this distribution for details.
+ */
+
+require('./../lib/ns-tools');

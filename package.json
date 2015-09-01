@@ -1,0 +1,27 @@
+{
+  "name": "ns-tools",
+  "version": "0.0.1",
+  "description": "Convenience Tools for working with NativeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nst": "bin/nst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshjensen/ns-tools.git"
+  },
+  "author": "Josh Jensen <me@joshjensen.com> (http://joshjensen.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshjensen/ns-tools/issues"
+  },
+  "homepage": "https://github.com/joshjensen/ns-tools",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "fs-sync": "^0.2.6",
+    "mkdirp": "^0.5.1"
+  }
+}
