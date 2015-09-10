@@ -4,6 +4,8 @@ Convenience Tools for working with NativeScript
 ## Install
 `npm install -g ns-tools`
 
+## Usage
+
 ````
   Usage: nst [options] <cmd> <subCmd> [param...]
 
