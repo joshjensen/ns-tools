@@ -1,6 +1,9 @@
 # NativeScript Tools
 Convenience Tools for working with NativeScript
 
+## Install
+`npm install -g ns-tools`
+
 ````
   Usage: nst [options] <cmd> <subCmd> [param...]
 
@@ -16,3 +19,11 @@ Convenience Tools for working with NativeScript
 
 ## Create new controller
 `nst create controller test/newpage`
+
+Results:
+
+````
+  Created: test/newpage.js
+  Created: test/newpage.css
+  Created: test/newpage.xml
+````
