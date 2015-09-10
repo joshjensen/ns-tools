@@ -1,6 +1,6 @@
 {
   "name": "ns-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convenience Tools for working with NativeScript",
   "main": "index.js",
   "scripts": {
